@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    text-decoration: none;
+}
+
+header {
+    background-color: #30D9C4;
+}
+
+p {
+    font-size: 16pt;
+    color:#333FFF;
+    font-weight: bold;
+}
+
+img {
+    height: 60px;
+}
+
+nav {
+    background: #000;
+    color: #fff;
+    width: 100%;
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+    display: inline; 
+}
+
+a {
+    color: #fff;
+    margin: 150px;
+}
+
+footer {
+    background: #000;
+    color: #fff;
+}
